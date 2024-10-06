@@ -1,4 +1,4 @@
-package org.spacolino.taxationservice.service;
+package org.spacolino.taxationservice.model;
 
 import java.math.BigDecimal;
 

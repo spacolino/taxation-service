@@ -1,5 +1,6 @@
 package org.spacolino.taxationservice.service;
 
+import org.spacolino.taxationservice.model.TaxationResult;
 import org.springframework.stereotype.Service;
 
 import java.math.BigDecimal;
